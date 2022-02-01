@@ -1,7 +1,16 @@
+Api feita em Java com Springboot
+
+A api:
+
 <ul>
-<li>Api feita em Java, Springboot e Maven;</li>
-<li>A Api executa operações CRUD de planetas no MongoDB, e também consulta filmes para um planeta na swapi.com;</li>
-<li>Para construir o projeto basta executar o comando 'mvn clean install';</li>
-<li>Se tiver algum problema com as dependências executar o comando 'mvn dependency:tree';</li>
-<li>Para rodar o projeto basta executar o comando 'mvn spring-boot:run';</li>
+<li>executa operações de planetas no MongoDB</li>
+<li>consulta filmes para um planeta na swapi.com;</li>
+</ul>
+
+Scripts disponíveis:
+
+<ul>
+<li>Construir: execute 'mvn clean install'</li>
+<li>Se tiver algum problema com as dependências, execute: 'mvn dependency:tree'</li>
+<li>Para rodar o projeto, execute: 'mvn spring-boot:run'</li>
 </ul>  
