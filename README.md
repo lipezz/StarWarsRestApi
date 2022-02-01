@@ -14,3 +14,5 @@ Scripts disponíveis:
 <li>Se tiver algum problema com as dependências, execute: 'mvn dependency:tree'</li>
 <li>Para rodar o projeto, execute: 'mvn spring-boot:run'</li>
 </ul>  
+
+Para rodar os casos de teste, execute a classe app principal dentro do pacote src/tests 
